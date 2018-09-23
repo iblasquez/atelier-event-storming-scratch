@@ -2,15 +2,15 @@
 
 Vous trouverez ici les supports ayant servi à animer l'atelier **Découvrir Event Storming et le quotidien des développeurs**
 
-***Cet atelier s'adresse aussi bien à un développeur, un Product Owner qu'à un expert métier.   
+Cet atelier s'adresse aussi bien à un développeur, un Product Owner qu'à un expert métier.   
 En alternant rapidement des phases d'échanges sur le métier et d'implémentation, nous allons :   
 - Découvrir EventStorming  
-- -Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs  
+- Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs  
 - Voir comment écrire un code cohérent avec la vision partagée du métier  
 - Bien nous amuser ...***
 
 
-*Aucune connaissance en programmation n'est nécessaire.*
+Aucune connaissance en programmation n'est nécessaire.
    
 ***Prérequis*** : *si possible amener un PC dans lequel vous aurez préchargé la version **Scratch 3.0** dans votre navigateur ([https://beta.scratch.mit.edu](https://beta.scratch.mit.edu))*
 
