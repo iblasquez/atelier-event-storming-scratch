@@ -27,7 +27,7 @@ Aucune connaissance en programmation n'est nécessaire.
 
 * Site de référence : [https://www.eventstorming.com/](https://www.eventstorming.com/)
 
-* Livre de référence sur Event Storming : [Introducing EventStorming](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530) de [Alberto Brandolini](https://twitter.com/ziobrando) <img src="https://s3.amazonaws.com/titlepages.leanpub.com/introducing_eventstorming/hero?1534150021" alt="Event Storming" width="70"> 
+* Livre de référence sur Event Storming : [Introducing EventStorming](https://www.eventstorming.com/book) de [Alberto Brandolini](https://twitter.com/ziobrando) <img src="https://s3.amazonaws.com/titlepages.leanpub.com/introducing_eventstorming/hero?1534150021" alt="Event Storming" width="70"> 
 
 
 * quelques autres liens à venir ... 
