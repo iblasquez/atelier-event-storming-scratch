@@ -7,7 +7,7 @@ En alternant rapidement des phases d'échanges sur le métier et d'implémentati
 - Découvrir EventStorming  
 - Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs  
 - Voir comment écrire un code cohérent avec la vision partagée du métier  
-- Bien nous amuser ...***
+- Bien nous amuser ...
 
 
 Aucune connaissance en programmation n'est nécessaire.
@@ -17,8 +17,10 @@ Aucune connaissance en programmation n'est nécessaire.
 
 ## Supports de l'atelier
 
-
+* [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) (Novembre 2018) : [transparents de l'atelier](slides/EventStorming_FromScratch_Atbdx_2018.pdf)  
 * [Agile Pays Basque](http://agile-paysbasque.fr/) (Septembre 2018) : [transparents de l'atelier](slides/EventStorming_FromScratch_AgilePB_2018.pdf)  ainsi que le [tutoriel de rapide prise en main de Scratch](tutoScratch/Tutoriel_PriseEnMainScratch.pdf) et le [projet Scratch de démarrage](tutoScratch/starting_ES.sb3)
+* [Montpellier Tech Hub](https://www.evensi.fr/atelier-event-storming-14-juin-2018-salle-faubourg/258626745) (Juin 2018)
+* [Meetup Software Crafters Toulouse](https://www.meetup.com/Software-Crafters-Toulouse/events/249599461/) (Avril 2018)
 
 
 ## Envie d'en savoir plus sur Event Storming?
