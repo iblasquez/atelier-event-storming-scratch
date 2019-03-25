@@ -29,6 +29,12 @@ Aucune connaissance en programmation n'est nécessaire.
 
 * Livre de référence sur Event Storming : [Introducing EventStorming](https://www.eventstorming.com/book) de [Alberto Brandolini](https://twitter.com/ziobrando) <img src="https://s3.amazonaws.com/titlepages.leanpub.com/introducing_eventstorming/hero?1534150021" alt="Event Storming" width="70"> 
 
+* De nombreux liens Event Storming sur le dépôt github **Awesome Event Storming** : https://github.com/mariuszgil/awesome-eventstorming
+
+* De nombreux liens DDD sur le dépôt github **Awesome Domain-Driven Design** : https://github.com/heynickc/awesome-ddd
+
+
+
 
 * quelques autres liens à venir ... 
 
