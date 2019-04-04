@@ -8,7 +8,7 @@ Nous allons découvrir EventStorming, pour sentir comment il permet d'aligner la
 En alternant rapidement des phases d'échanges sur le métier et d'implémentation, nous écrirons un code cohérent avec la connaissance partagée du métier.  
 Aucune connaissance en programmation n'est nécessaire.
 
-***Prérequis (si possible)***: apporter votre ordinateur, dans lequel vous aurez ouvert Scratch dans votre navigateur [https://scratch.mit.edu/projects/editor](https://scratch.mit.edu/projects/editor)
+**Prérequis (si possible)**: apporter votre ordinateur, dans lequel vous aurez ouvert Scratch dans votre navigateur [https://scratch.mit.edu/projects/editor](https://scratch.mit.edu/projects/editor)
 
 
 <!--Cet atelier s'adresse aussi bien à un développeur, un Product Owner qu'à un expert métier.   
@@ -21,6 +21,7 @@ En alternant rapidement des phases d'échanges sur le métier et d'implémentati
 
 ## Supports de l'atelier
 
+* [Newcrafts Toulouse](https://toulouse.ncrafts.io/) (Avril 2019) : [transparents de l'atelier](slides/EventStorming_FromScratch_NCraftsTlse_2019.pdf)  
 * [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) (Novembre 2018) : [transparents de l'atelier](slides/EventStorming_FromScratch_Atbdx_2018.pdf)  
 * [Agile Pays Basque](http://agile-paysbasque.fr/) (Septembre 2018) : [transparents de l'atelier](slides/EventStorming_FromScratch_AgilePB_2018.pdf)  ainsi que le [tutoriel de rapide prise en main de Scratch](tutoScratch/Tutoriel_PriseEnMainScratch.pdf) et le [projet Scratch de démarrage](tutoScratch/starting_ES.sb3)
 * [Montpellier Tech Hub](https://www.evensi.fr/atelier-event-storming-14-juin-2018-salle-faubourg/258626745) (Juin 2018)
@@ -39,8 +40,8 @@ En alternant rapidement des phases d'échanges sur le métier et d'implémentati
 
 
 * Pour aller plus loin dans l'implémentation CQRS et Event Sourcing :  
--- Un **koan** pour découvrir CQRS et Event Sourcing à partir d'un Event Storming : [https://github.com/DevLyon/mixter](https://github.com/DevLyon/mixter)   
-à compléter par **CQRS:ES from scratch** une conférence d'Emilien Pecoul et Florent Pellet où l'exemple du koan précédent est repris ([vidéo Devoxx France 2017](https://www.youtube.com/watch?v=S1V4t7SXXCU))  
+-- Un **koan** pour découvrir CQRS et Event Sourcing à partir d'un Event Storming : [https://github.com/DevLyon/mixter](https://github.com/DevLyon/mixter)  
+Avant de vous lancer dans ce koan, vous pouvez regarder la vidéo **CQRS:ES from scratch** une conférence d'Emilien Pecoul et Florent Pellet où une partie de l'exemple du koan précédent est live codée ([vidéo Devoxx France 2017](https://www.youtube.com/watch?v=S1V4t7SXXCU))  
 -- **CQRS, Fonctionnel, Event Sourcing & Domain Driven Design** par Arnaud LEMAIRE au MUG Lyon ([vidéo](https://www.youtube.com/watch?v=6ZqQOMTWzYs), [slides](https://speakerdeck.com/lilobase/cqrs-fonctionel-event-sourcing-and-domain-driven-design-mug-lyon-2017))  
 -- **CQRS, Fonctionnel, Event Sourcing & Domain Driven Design** par Arnaud Lemaire au PHP Tour 2018 ([vidéo](https://www.youtube.com/watch?v=qBLtZN3p3FU), [slides](https://speakerdeck.com/lilobase/ddd-and-cqrs-php-tour-2018))
 
